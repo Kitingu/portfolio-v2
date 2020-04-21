@@ -3,7 +3,7 @@
     "title": "Contact Keeper",
     "stack": "React.js, Express Js, Mongo Db",
     "source_link": "https://github.com/kitingu/contact-keeper",
-    "project_link": "https://covid-dashboard.now.sh/",
+    "project_link": "https://sheltered-beyond-35051.herokuapp.com/",
     "description": ""
   },
   {
@@ -16,15 +16,22 @@
   {
     "title": "Github Finder",
     "stack": "HTML5, CSS3, jQuery",
-    "source_link": "https://github.com/kitingu/backslash",
-    "project_link": "",
+    "source_link": "https://github.com/kitingu/github-finder",
+    "project_link": "https://github-finder-v1.netlify.app/",
     "description": ""
   },
   {
     "title": "Send IT",
     "stack": "Python(Flask) PostgreSQL",
-    "source_link": "https://github.com/kitingu/sendit",
-    "project_link": "",
+    "source_link": "https://github.com/Kitingu/SendIT-Api",
+    "project_link": "https://senditapi-v2.herokuapp.com/api/v2/",
+    "description": ""
+  },
+  {
+    "title": "PropertyPro",
+    "stack": "Node Js, Express, PostgreSQL",
+    "source_link": "https://github.com/Kitingu/SendIT-Api",
+    "project_link": "https://senditapi-v2.herokuapp.com/api/v2/",
     "description": ""
   }
 ]

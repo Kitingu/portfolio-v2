@@ -1,5 +1,5 @@
 ---
-title: 'New Beginnings '
+title: 'New Beginnings, Introducing my new new developer blog.'
 date: 2020-04-02
 info: 'Introduction to the blog'
 tags: ['general']
